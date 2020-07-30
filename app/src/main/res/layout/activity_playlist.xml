@@ -35,7 +35,7 @@
 
         </TextView>
 
-        <include layout="@layout/content_main" />
+        <include layout="@layout/content_main_songs" />
     </LinearLayout>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
